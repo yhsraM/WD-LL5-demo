@@ -1,0 +1,6 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["Nehir", "ritwickdey", "getbootstrap", "stylesheet", "Playfair"],
+  "ignorePaths": ["node_modules", "dist", ".git"]
+}
