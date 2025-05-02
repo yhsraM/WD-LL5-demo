@@ -13,6 +13,24 @@ Welcome to your Bootstrap layout activity! This project is part of **LiveLab 5**
 
 ---
 
+## 🚀 How to Preview Your Code in Codespaces
+
+We’ve set up a **starter page (`index.html`)** to help you easily open the right file in Live Server.
+
+1. In the file list, find and right-click `index.html`
+2. Choose **"Preview with Live Server"**
+3. You’ll see two links:
+   - `🖼️ Tile by Nehir Starter`: for your Bootstrap layout activity
+   - `🌀 Parallax Level-Up`: LEVEL UP for an optional scroll effect challenge
+
+You do **not** need to open the other `index-nehir.html` or `index-parallax.html` files directly.
+
+---
+
+> 💡 We renamed those files to keep things organized and help Live Server route things cleanly.
+
+---
+
 ## 🔧 During the LiveLab
 
 Your starter includes:
